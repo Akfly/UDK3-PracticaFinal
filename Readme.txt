@@ -1,0 +1,1 @@
+To use it, download UDK3 (Version July 2013), and put all the files in the installation folder. Then run the editor and load UDKGame/Content/Maps/BaseMap5.udk
